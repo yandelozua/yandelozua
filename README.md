@@ -1,4 +1,4 @@
-# ¡Hola! Soy Carlos Yaiel Cruz López 👋
+# ¡Hola! Soy Yadiel  👋
 
 Estudiante de **Bachillerato en Desarrollo de Software** en el *Instituto Nacional Profesor Francisco Ventura Zelaya*. Soy un apasionado de la tecnología, con muchas ganas de aprender nuevas herramientas y construir proyectos increíbles.
 
