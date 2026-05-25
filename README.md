@@ -30,4 +30,4 @@ Hasta el momento, estas son las tecnologías con las que he trabajado y aprendid
 
 Si quieres contactar conmigo para hablar de desarrollo o colaborar en algún proyecto, puedes escribirme a:
 
-- 📧 **Correo Electrónico:** [carlosyaielcruzlopez704@gmail.com](mailto:carlosyaielcruzlopez704@gmail.com)
+- 📧 **Correo Electrónico:** [carlosyadielcruzlopez704@gmail.com](mailto:carlosyaielcruzlopez704@gmail.com)
